@@ -73,10 +73,12 @@ The focus is on answering:
 
 ### 📊 Dashboard Pages
 - **Dashboard Page 1 (Overview & KPIs)**  
-  ![Dashboard Page 1](Dashboard_Page_1.jpg)
+  ![Dashboard Page 1](![Dashboard Page 1](https://github.com/user-attachments/assets/76162f69-0fba-4851-ba4d-f1a5cb7530ff)
+.jpg)
 
 - **Dashboard Page 2 (Detailed Analysis)**  
-  ![Dashboard Page 2](Dashboard_Page_2.jpg)
+  ![Dashboard Page 2](![Dashboard Page 2](https://github.com/user-attachments/assets/550b658b-72a6-4170-aa1a-3345c5eb0ecb)
+.jpg)
 
 ### 📊 Specific Insights
 - **Top 10 Countries by Number of Missions**  
